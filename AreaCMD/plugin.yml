@@ -1,0 +1,13 @@
+name: AreaCMD
+version: 0.0.1
+api: [1.0.0]
+main: src/areacmd/Main.php
+load: POSTWORLD
+ commands:
+ pos1:
+  description: "first position of a areacmd"
+  usage: /pos1
+  aliases: [p1]
+
+
+
